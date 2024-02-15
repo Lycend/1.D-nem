@@ -1,0 +1,17 @@
+Aşağıdaki sözlükleri oluşturarak sizlerden istenen işlemleri yapınız.
+ sozluk = {“Bilim insanı”:”Aziz Sancar”, “Şair”:”Mehmet Akif Ersoy”, “Astronom”:”Ali Kuşçu” }
+a)  sozluk isimli sözlüğü meslekler isimli başka bir sözlüğe kopyalayınız ve ekrana yazdırınız.
+b)  sozluk isimli sözlüğün değerlerini ekrana yazdırınız.
+c)  sozluk isimli sözlüğü içi boş bir sözlük hâline getiriniz.
+
+
+
+ALGORİTMASINI YAP
+
+
+sözlük isimli mesleğe meslek ismlileri  başka bir sözlüğe koplayayıp yazdırınız
+
+
+sözlük isimli sözlüğün değerlerini yazdıracağız
+
+içi boş sözlük haline getireceğiz

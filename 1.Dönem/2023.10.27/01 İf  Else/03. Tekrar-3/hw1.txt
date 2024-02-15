@@ -1,0 +1,3 @@
+2 sınav notu ve performan notu istenecek
+eğer bunların ortalaması 50'den az ise başarısız
+değil ise başarılı

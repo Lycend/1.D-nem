@@ -1,0 +1,6 @@
+Elemanları sırasıyla sanat, sanat, içindir olan listeyi sanat, toplum, içindir şeklinde değiştiriniz
+
+
+ALGORİTMASINI YAP
+
+SANAT SANAT İÇİNDİRİ sanat toplum içindir olarak değiştireceğiz

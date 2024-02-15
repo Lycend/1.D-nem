@@ -1,0 +1,15 @@
+Kullanıcının girdiği boy ve ağırlık değerlerine göre vücut kitle indeksini 
+ (VKİ=ağırlık/(boy*boy), boy metre cinsinden verilmeli) hesaplayınız. VKİ 18 ile < 25 aralığındaysa normal,
+  VKİ 25 ile <30 aralığındaysa kilolu, VKİ 30 ve daha yüksekse obez, VKİ 35 ve daha fazlaysa ciddi obez olarak kabul edilir. 
+  VKİ’ni hesaplayarak kişinin durumunu yazdırınız. 
+
+
+  ALGORİTMASINI YAP
+
+boy ve kilo istenecek 
+eğer vki 18 ile 25 aralığında ise normal 
+vki 25 ile 30 aralığında ise kilolu 
+vki 30 veya daha yüksek ise obez 
+vki 35 veya daha fazla ise ciddi obez
+
+

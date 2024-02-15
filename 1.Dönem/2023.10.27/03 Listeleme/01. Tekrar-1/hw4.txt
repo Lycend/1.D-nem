@@ -1,0 +1,6 @@
+    Haftanın günlerinden Pazartesi ile başlayan ve Cuma ile biten bir liste oluşturunuz.
+     Oluşturduğunuz listenin indeksi 4 olan elemanını ekrana yazdırınız.
+
+     ALGORİTMASINI YAP
+
+     pazartesiden cumaya listelicez indeksi 4 olan yazacak

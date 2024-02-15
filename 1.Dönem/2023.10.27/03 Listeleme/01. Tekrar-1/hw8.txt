@@ -1,0 +1,22 @@
+Adı ders, elemanları sırasıyla B,İ,L,İ,Ş,İ,M olan bir liste oluşturarak aşağıdaki işlemleri yapınız.
+a)  Listeyi alfabetik olarak sıralayınız.
+b)  Listeyi tersten yazdırınız.
+c)  Listede kaç tane İ elemanı olduğunu bulunuz.
+ç) Gerekli harfleri silerek listeyi B,İ,L,İ,M hâline getiriniz.
+d) ders listesini alan listesine kopyalayarak ekrana alan listesini yazdırınız.
+e) Listenin tüm elemanlarını siliniz.
+f) L elemanının indeksini bulunuz
+
+
+ALGORİTMASINI YAP,
+
+B,İ,L,İ,Ş,İ,M
+
+Listeyi alfabetik olarak sıralayınız
+
+ Listeyi tersten yazdırınız.
+  Listede kaç tane İ elemanı olduğunu bulunuz.
+ Gerekli harfleri silerek listeyi B,İ,L,İ,M hâline getiriniz.
+ders listesini alan listesine kopyalayarak ekrana alan listesini yazdırınız.
+ Listenin tüm elemanlarını siliniz.
+ L elemanının indeksini bulunuz

@@ -1,0 +1,9 @@
+ Sırasıyla pi sayısı, inç biriminin cm olarak karşılığı, mikroişlemcilerin kısaltması, kullandığınız işletim sisteminin adı ve
+  48 bitin byte olarak karşılığını bir liste hâline getirerek ekrana yazdırınız.
+
+algoritma yap 
+ 
+pi sayısını,inç birimini cm olarak karşlığı mikroişlemcilerin kısaltması  kullandığınız işletim sistemininadı
+48 bitin byte olarak karşılığı liste olarak yazacak
+    
+    

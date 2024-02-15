@@ -1,0 +1,5 @@
+Değerleri sırasıyla 3,1,2 olan listeyi 1,1,2 olarak değiştiriniz.
+
+ALGORİTMASINI YAP
+
+3,1,2 OLAN şeyi 1,1,2 olarak değiştireceğiz

@@ -1,0 +1,6 @@
+Girilen iki sayı arasındaki sayıları toplayan programı while döngüsü ile yazınız.
+
+ALGORİTMASINI YAP
+
+İKİ SAYI İSTENECEK
+ikisinin ortalaması alınacak

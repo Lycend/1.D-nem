@@ -1,0 +1,25 @@
+Adı sayilar, elemanları sırasıyla 35, 26, 81, 64 olan bir liste oluşturarak aşağıdaki işlemleri yapınız.
+a)  Listeyi büyükten küçüğe doğru sıralayınız.
+b)  Listeyi tersten yazdırınız.
+c)  Listede kaç tane 26 elemanı olduğunu bulunuz.
+ç) Listedeki 81 sayısını siliniz.
+d) Listenin tüm elemanlarını siliniz.
+e) 64 elemanının indeksini bulunuz.
+f) Listeyi ondalikli_sayilar isimli, elemanları 1.4, 6.8 olan liste ile birleştiriniz
+
+
+ALGORİTMASINI YAP
+
+BÜYÜKTEN KÜÇÜPEĞE SIRALICAZ
+
+TERSTEN YAZDIRCAZ
+
+kaç tane 26 elemanı olduğunu bulacağız
+
+81'i sliceğiz
+
+hepsini siliceğiz
+
+64 elemanının indeksini bulacağız
+
+ondalıklı sayılar eklicez

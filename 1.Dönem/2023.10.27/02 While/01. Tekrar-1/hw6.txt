@@ -1,0 +1,7 @@
+Girilen iki sayı arasındaki sayıları toplayan programı while döngüsü ile yazınız.
+
+ALGORİTMASINI YAP
+
+iki sayı girilecek
+
+iki sayının arasındakiler toplanacak

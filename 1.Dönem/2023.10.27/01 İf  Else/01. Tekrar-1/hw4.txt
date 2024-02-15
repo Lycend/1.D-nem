@@ -1,0 +1,10 @@
+Kullanıcının girdiği iki ürünün toplam fiyatı 200 TL ve altıysa “Ödenecek miktar=…. TL”; 200 TL’yi geçerse %25 indirim yaparak 
+“Ödenecek miktar, indirimden sonra ….. TL’dir.” çıktılarını veren kodu yazınız.
+
+
+
+ALGORİTMASINI YAP
+
+2 ürün fiyatı istenecek 
+eğer 200 TL'den fazla ise  %25 indirim 
+değil ise normal fiyatı

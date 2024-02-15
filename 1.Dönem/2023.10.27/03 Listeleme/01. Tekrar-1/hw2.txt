@@ -1,0 +1,5 @@
+En sevdiğiniz 3 meyveyi liste hâline getirerek ekrana yazdırınız.
+
+ALGORİTMASINI YAP
+
+3 TANE MEYVE GİRİP YAZACAK

@@ -1,0 +1,4 @@
+3 tane açı isyenecek 
+3 toplamı 180 ise üçgendir
+
+değilse üçgen değildir

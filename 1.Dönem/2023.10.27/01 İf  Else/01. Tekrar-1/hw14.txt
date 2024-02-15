@@ -1,0 +1,8 @@
+Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+
+ALGORİTMASINI YAP
+
+
+
+ 3 sayı girilecek
+ bunların en büyüğünü yazacak

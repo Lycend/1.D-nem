@@ -1,0 +1,26 @@
+ilk başta işlem isticem toplama çıkarma çarpma bölme üs alma karekök
+
+2 tane sayı girilecek
+
+while döngüsü ile q'ya basıldığında çıkılacak
+
++ 2 sayıyı toplıcak
+
+- 2 sayıyı çıkaracak
+
+* 2 sayıyı çarpçak
+
+/ 2 sayıyı bölecek
+
+** ilk sayı taban yapcak 2. sayıyı üs yapacak
+
+K karekök alacak
+
+q çıkış yapacak
+
+
+eğer işlem bölme ve 2. sayı 0 ise 'number 0'a bölemezsin ' dicek
+
+eğer bunlarda biri girilmezse 'Böyle bir işlem yok başka bir şey deneyiniz 'yazcak
+
+eğer 'Q' veya 'q' basıldığında çakılacak

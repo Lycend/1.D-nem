@@ -1,0 +1,5 @@
+20 ile 50 arasındaki (50 dâhil) çift sayıların toplamını bulan programı while döngüsü ile yazınız
+
+ALGORİTMASINI YAP
+
+20 SAYISINDAN 50 ye kadar 2 şer 2 şer toplıcak

@@ -1,0 +1,3 @@
+Elemanları haftanın günleri olan bir liste oluşturunuz ve ekrana yazdırınız.
+
+bütün günleri yazdıracağız

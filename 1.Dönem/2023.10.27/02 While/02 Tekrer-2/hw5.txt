@@ -1,0 +1,5 @@
+1 ile 20 arasındaki (20 dâhil) sayıların toplamını bulan programı while döngüsü ile yazınız.
+
+ALGORİTMASINI YAP
+
+1-20 sayıları toplıcak

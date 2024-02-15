@@ -1,0 +1,8 @@
+Girilen şifre “Python” olana kadar “Tekrar deneyiniz” uyarısı veren,
+ “Python” girildiğinde “Giriş başarılı” uyarısı veren kodu yazınız
+
+ ALGORİTMASINI yap
+
+
+ ŞİFRE İSTENCEK “Python” YAZILANA KADAR “Tekrar deneyiniz” yazacak
+ “Python” yazıldığında “Giriş başarılı”
